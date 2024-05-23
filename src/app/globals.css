@@ -31,3 +31,11 @@ body {
     text-wrap: balance;
   }
 }
+
+.leaflet-container {
+  width: 100%;
+  height: 98vh;
+}
+.sr-only {
+  display: none;
+}
